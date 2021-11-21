@@ -1,3 +1,3 @@
-"# gotour" 
+# gotour 
 
-It is my golang practice repo."# gotour" 
+- It is my golang practice repo.
